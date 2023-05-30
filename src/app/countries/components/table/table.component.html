@@ -1,7 +1,7 @@
 
 
 <div *ngIf="countries.length === 0; else table" class="alert alert-warning text-center">
-  No hay paises por mostrar.
+  {{errorMessage}}
 </div>
 
 <ng-template #table>
