@@ -1,6 +1,14 @@
+### CountryApp
 
+## Ejecutar proyecto localmente
 
-Aplicación SPA de paises donde abordamos los siguientes temas de Angular.
+1. Clonar proyecto.
+2. Ejecutar ```npm install``` para descargar las dependencias.
+3. Ejecutar la app ```ng serve -o```.
+
+## Descripción
+
+Aplicación SPA de angular ```Buscador de paises``` donde abordamos los siguientes temas de Angular.
 
 1. Rutas
 2. RouterLink y RouterLinkActive
